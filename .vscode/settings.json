@@ -12,7 +12,5 @@
 	"editor.useTabStops": true,
 	"editor.tabSize": 4,
 	"editor.formatOnPaste": true,
-	"editor.formatOnSave": true,
-
-	"liveServer.settings.root": "/dist"
+	"editor.formatOnSave": true
 }

@@ -1,10 +1,9 @@
 {
 	"recommendations": [
-		"ritwickdey.liveserver",
 		"esbenp.prettier-vscode",
-		"msjsdiag.debugger-for-chrome",
-		"philnash.ngrok-for-vscode",
 		"syler.sass-indented",
-		"jcbuisson.vue"
+		"lucaslpsan.vuetify-pug-snippet",
+		"lukas-tr.materialdesignicons-intellisense",
+		"vue.volar"
 	]
 }
